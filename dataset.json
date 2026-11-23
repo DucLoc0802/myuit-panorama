@@ -1,0 +1,9 @@
+{
+  "name": "MyUIT Panorama",
+  "sourceRepository": "https://github.com/UIT-iMap/uit-imap-data",
+  "sourceCommit": "0e20ab5febb0b806c95282d2615cfdf295b1bd92",
+  "sceneCount": 53,
+  "tileCount": 27083,
+  "tileBytes": 680326082,
+  "catalogSha256": "969667bfef0a719528014a8da7d64beb368bf087b0eb62cddc01906551ad2a90"
+}
